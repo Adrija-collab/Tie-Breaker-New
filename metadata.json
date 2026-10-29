@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "An intelligent decision-making engine that breaks ties, compares options with pros & cons, weighted matrices, and deep SWOT analyses powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
